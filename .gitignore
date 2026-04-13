@@ -1,0 +1,10 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados local (Dados sensíveis)
+atendimento.db
+
+# Ambientes virtuais (caso venha a usar)
+venv/
+.env
